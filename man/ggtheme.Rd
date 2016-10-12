@@ -9,6 +9,7 @@
 \alias{theme_light}
 \alias{theme_linedraw}
 \alias{theme_minimal}
+\alias{theme_test}
 \alias{theme_void}
 \title{Complete themes}
 \usage{
@@ -29,6 +30,8 @@ theme_minimal(base_size = 11, base_family = "")
 theme_classic(base_size = 11, base_family = "")
 
 theme_void(base_size = 11, base_family = "")
+
+theme_test(base_size = 11, base_family = "")
 }
 \arguments{
 \item{base_size}{base font size}
@@ -72,6 +75,10 @@ A classic-looking theme, with x and y axis lines and no gridlines.}
 
 \item{\code{theme_void}}{
 A completely empty theme.}
+
+\item{\code{theme_test}}{
+A theme for visual unit tests. It should ideally never change except
+for new features.}
 
 }
 }
