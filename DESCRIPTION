@@ -22,7 +22,8 @@ Imports:
     scales (>= 0.4.1),
     stats,
     tibble,
-    lazyeval
+    lazyeval,
+    survival (>= 2.40.1)
 Suggests:
     covr,
     ggplot2movies,
