@@ -97,3 +97,4 @@ a + annotation_logticks(
 
 \code{\link{coord_trans}} for log coordinate transformations.
 }
+

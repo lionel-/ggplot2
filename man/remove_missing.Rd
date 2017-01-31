@@ -26,3 +26,4 @@ automatically removed with a warning. If \code{na.rm = TRUE} is supplied
 to the statistic, the warning will be suppressed.
 }
 \keyword{internal}
+

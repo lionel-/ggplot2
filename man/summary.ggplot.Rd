@@ -20,3 +20,4 @@ p <- ggplot(mtcars, aes(mpg, wt)) +
 summary(p)
 }
 \keyword{internal}
+

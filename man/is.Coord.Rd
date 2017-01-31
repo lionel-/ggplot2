@@ -10,3 +10,4 @@ is.Coord(x)
 Is this object a coordinate system?
 }
 \keyword{internal}
+

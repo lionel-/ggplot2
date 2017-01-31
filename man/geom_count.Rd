@@ -73,7 +73,6 @@ useful when you have discrete data and overplotting.
  \item{prop}{percent of points in that panel at that position}
 }
 }
-
 \examples{
 ggplot(mpg, aes(cty, hwy)) +
  geom_point()
@@ -108,3 +107,4 @@ d + geom_count(aes(size = ..prop.., group = clarity)) +
 \seealso{
 For continuous \code{x} and \code{x}, use \code{\link{geom_bin2d}}.
 }
+

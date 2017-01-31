@@ -19,3 +19,4 @@ benchplot(ggplot(mtcars, aes(mpg, wt)) + geom_point())
 benchplot(ggplot(mtcars, aes(mpg, wt)) + geom_point() + facet_grid(. ~ cyl))
 }
 \keyword{internal}
+

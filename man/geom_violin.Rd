@@ -101,7 +101,6 @@ boxplot.
   \item{width}{width of violin bounding box}
 }
 }
-
 \examples{
 p <- ggplot(mtcars, aes(factor(cyl), mpg))
 p + geom_violin()
@@ -162,3 +161,4 @@ Plot-Density Trace Synergism. The American Statistician 52, 181-184.
 \code{\link{geom_violin}} for examples, and \code{\link{stat_density}}
   for examples with data along the x axis.
 }
+

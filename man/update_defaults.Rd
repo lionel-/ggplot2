@@ -25,3 +25,4 @@ ggplot(mtcars, aes(mpg, wt)) + geom_point()
 update_geom_defaults("point", list(colour = "black"))
 }
 \keyword{internal}
+

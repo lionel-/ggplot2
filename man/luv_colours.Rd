@@ -16,3 +16,4 @@ luv_colours
 All built-in \code{\link{colors}()} translated into Luv colour space.
 }
 \keyword{datasets}
+

@@ -86,3 +86,4 @@ ggplot(mod, aes(.hat, .cooksd)) +
   scale_size_area()
 }
 \keyword{internal}
+

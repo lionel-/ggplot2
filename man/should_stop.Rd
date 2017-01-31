@@ -17,3 +17,4 @@ should_stop(stop("Hi!"))
 should_stop(should_stop("Hi!"))
 }
 \keyword{internal}
+

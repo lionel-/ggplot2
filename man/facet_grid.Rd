@@ -144,3 +144,4 @@ mg + facet_grid(vs + am ~ gear, margins = "gear")
 mg + facet_grid(vs + am ~ gear, margins = c("gear", "am"))
 }
 }
+

@@ -71,7 +71,6 @@ and the underlying visual tasks are somewhat more challenging.
   \item{y}{cumulative density corresponding x}
 }
 }
-
 \examples{
 df <- data.frame(
   x = c(rnorm(100, 0, 3), rnorm(100, 0, 10)),
@@ -85,3 +84,4 @@ ggplot(df, aes(x)) + stat_ecdf(geom = "step", pad = FALSE)
 # Multiple ECDFs
 ggplot(df, aes(x, colour = g)) + stat_ecdf()
 }
+

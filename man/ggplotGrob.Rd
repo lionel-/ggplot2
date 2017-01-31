@@ -13,3 +13,4 @@ ggplotGrob(x)
 Generate a ggplot2 plot grob.
 }
 \keyword{internal}
+

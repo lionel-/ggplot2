@@ -27,3 +27,4 @@ scale_type("test")
 scale_type(Sys.Date())
 }
 \keyword{internal}
+

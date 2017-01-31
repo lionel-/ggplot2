@@ -82,7 +82,6 @@ the line:
   \item \code{geom_abline}: \code{slope} and \code{intercept}
 }
 }
-
 \examples{
 p <- ggplot(mtcars, aes(wt, mpg)) + geom_point()
 
@@ -118,3 +117,4 @@ ggplot(mtcars, aes(mpg, wt, colour = wt)) +
 See \code{\link{geom_segment}} for a more general approach to
   adding straight line segments to a plot.
 }
+

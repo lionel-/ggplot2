@@ -124,7 +124,6 @@ to match the number of dots.
   \item{ndensity}{density, scaled to maximum of 1, if method is "histodot"}
 }
 }
-
 \examples{
 ggplot(mtcars, aes(x = mpg)) + geom_dotplot()
 ggplot(mtcars, aes(x = mpg)) + geom_dotplot(binwidth = 1.5)
@@ -182,3 +181,4 @@ ggplot(mtcars, aes(x = 1, y = mpg, fill = factor(cyl))) +
 Wilkinson, L. (1999) Dot plots. The American Statistician,
    53(3), 276-281.
 }
+

@@ -53,3 +53,4 @@ The identity statistic leaves the data unchanged.
 p <- ggplot(mtcars, aes(wt, mpg))
 p + stat_identity()
 }
+

@@ -30,3 +30,4 @@ This dataset was produced from US economic time series data available from
 format, \code{economics_long} is in "long" format.
 }
 \keyword{datasets}
+

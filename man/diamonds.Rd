@@ -26,3 +26,4 @@ A dataset containing the prices and other attributes of almost 54,000
  diamonds. The variables are as follows:
 }
 \keyword{datasets}
+

@@ -59,7 +59,6 @@ This is pure annotation, so does not affect position scales.
 
 \aesthetics{geom}{map}
 }
-
 \examples{
 # When using geom_polygon, you will typically need two data frames:
 # one contains the coordinates of each polygon (positions),  and the
@@ -107,3 +106,4 @@ if (require(maps)) {
     facet_wrap( ~ variable)
 }
 }
+

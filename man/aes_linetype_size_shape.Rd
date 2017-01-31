@@ -3,8 +3,8 @@
 \name{aes_linetype_size_shape}
 \alias{aes_linetype_size_shape}
 \alias{linetype}
-\alias{size}
 \alias{shape}
+\alias{size}
 \title{Differentiation related aesthetics: linetype, size, shape}
 \description{
 This page demonstrates the usage of a sub-group
@@ -67,3 +67,4 @@ s + geom_point(aes(shape = z), size = 4, colour = "Red") +
 s + geom_point(aes(shape = z), size = 4, colour = "Red", fill = "Black") +
   scale_shape_identity()
 }
+

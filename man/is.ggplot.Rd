@@ -13,3 +13,4 @@ is.ggplot(x)
 Reports whether x is a ggplot object
 }
 \keyword{internal}
+

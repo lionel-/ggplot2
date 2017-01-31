@@ -107,7 +107,6 @@ aesthetics. These can either be a number between 0 (right/bottom) and
 Inward always aligns text towards the center, and outward aligns
 it away from the center
 }
-
 \examples{
 p <- ggplot(mtcars, aes(wt, mpg, label = rownames(mtcars)))
 
@@ -193,3 +192,4 @@ ggplot(df, aes(x, y)) +
   geom_text(aes(label = text), vjust = "inward", hjust = "inward")
 }
 }
+

@@ -13,3 +13,4 @@ is.rel(x)
 Reports whether x is a rel object
 }
 \keyword{internal}
+

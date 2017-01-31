@@ -2,8 +2,8 @@
 % Please edit documentation in R/aes-colour-fill-alpha.r
 \name{aes_colour_fill_alpha}
 \alias{aes_colour_fill_alpha}
-\alias{colour}
 \alias{color}
+\alias{colour}
 \alias{fill}
 \title{Colour related aesthetics: colour, fill and alpha}
 \description{
@@ -59,3 +59,4 @@ j
 j + scale_fill_manual(values = alpha(c("blue", "red"), .3))
 }
 }
+

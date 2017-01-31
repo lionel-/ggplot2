@@ -34,3 +34,4 @@ ggplot(tx, aes(long, lat)) +
 \code{\link{map_data}} and \code{\link{borders}}
 }
 \keyword{internal}
+

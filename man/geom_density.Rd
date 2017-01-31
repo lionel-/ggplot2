@@ -98,7 +98,6 @@ data that comes from an underlying smooth distribution.
   \item{scaled}{density estimate, scaled to maximum of 1}
 }
 }
-
 \examples{
 ggplot(diamonds, aes(carat)) +
   geom_density()
@@ -137,3 +136,4 @@ See \code{\link{geom_histogram}}, \code{\link{geom_freqpoly}} for
   other methods of displaying continuous distribution.
   See \code{\link{geom_violin}} for a compact density display.
 }
+

@@ -58,7 +58,6 @@ in the function signature, although customarily it comes first.
 To explicitly call a methods in a parent, use
 \code{ggproto_parent(Parent, self)}.
 }
-
 \examples{
 Adder <- ggproto("Adder",
   x = 0,
@@ -80,3 +79,4 @@ Doubler <- ggproto("Doubler", Adder,
 Doubler$x
 Doubler$add(10)
 }
+

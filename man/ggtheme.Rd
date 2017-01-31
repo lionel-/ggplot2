@@ -9,9 +9,8 @@
 \alias{theme_light}
 \alias{theme_linedraw}
 \alias{theme_minimal}
-\alias{theme_classic}
-\alias{theme_void}
 \alias{theme_test}
+\alias{theme_void}
 \title{Complete themes}
 \usage{
 theme_grey(base_size = 11, base_family = "")

@@ -22,3 +22,4 @@ This function "munches" lines, dividing each line into many small pieces
 so they can be transformed independently. Used inside geom functions.
 }
 \keyword{internal}
+

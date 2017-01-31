@@ -53,3 +53,4 @@ g <- ggplotGrob(ggplot(df2, aes(x, y)) +
 base +
   annotation_custom(grob = g, xmin = 1, xmax = 10, ymin = 8, ymax = 10)
 }
+

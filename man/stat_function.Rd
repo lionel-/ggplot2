@@ -75,7 +75,6 @@ the x axis, and the results are drawn (by default) with a line.
   \item{y}{value of function evaluated at corresponding x}
 }
 }
-
 \examples{
 set.seed(1492)
 df <- data.frame(
@@ -109,3 +108,4 @@ f + stat_function(fun = sin, colour = "red") +
 test <- function(x) {x ^ 2 + x + 20}
 f + stat_function(fun = test)
 }
+

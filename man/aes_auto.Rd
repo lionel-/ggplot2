@@ -15,3 +15,4 @@ aes_auto(data = NULL, ...)
 Automatic aesthetic mapping
 }
 \keyword{internal}
+

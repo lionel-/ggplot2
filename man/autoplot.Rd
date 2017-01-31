@@ -22,3 +22,4 @@ other classes and packages can extend.
 \seealso{
 \code{\link{autolayer}}, \code{\link{ggplot}} and \code{\link{fortify}}
 }
+
