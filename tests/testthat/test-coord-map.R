@@ -11,13 +11,13 @@ test_that("maps draws correctly", {
   pworld <- ggplot(world_map, aes(x = long, y = lat, group = group)) +
     geom_polygon()
 
-  p <- pworld + coord_map(projection = "ortho") +
-    scale_y_continuous(breaks = (-2:2) * 30) +
-    scale_x_continuous(breaks = (-4:4) * 45)
-  f <- tempfile(fileext = ".svg")
-  vdiffr:::write_svg(p, f, "ortho projection, default orientation (centered on north pole)")
-  svg <- paste(readLines(f), collapse = "\n")
-  cat("\n\n SVG:\n\n", svg)
+  ## p <- pworld + coord_map(projection = "ortho") +
+  ##   scale_y_continuous(breaks = (-2:2) * 30) +
+  ##   scale_x_continuous(breaks = (-4:4) * 45)
+  ## f <- tempfile(fileext = ".svg")
+  ## vdiffr:::write_svg(p, f, "ortho projection, default orientation (centered on north pole)")
+  ## svg <- paste(readLines(f), collapse = "\n")
+  ## cat("\n\n SVG:\n\n", svg)
 
 
   vdiffr::expect_doppelganger("no projection",
