@@ -218,4 +218,4 @@ Collate:
     'zzz.r'
 VignetteBuilder: knitr
 RoxygenNote: 6.0.0
-Remotes: hadley/svglite
+Remotes: lionel-/svglite@test-negzero

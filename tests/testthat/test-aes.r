@@ -65,11 +65,11 @@ test_that("aes evaluated in environment where plot created", {
 test_that("aesthetics are drawn correctly", {
   dat <- data.frame(xvar = letters[1:3], yvar = 7:9)
 
-  p <- ggplot(dat, aes(x = xvar, y = yvar)) + geom_bar(stat = "identity")
-  f <- tempfile(fileext = ".svg")
-  vdiffr:::write_svg(p, f, "stat='identity'")
-  svg <- paste(readLines(f), collapse = "\n")
-  stop("\n\n SVG:\n\n", svg)
+  ## p <- ggplot(dat, aes(x = xvar, y = yvar)) + geom_bar(stat = "identity")
+  ## f <- tempfile(fileext = ".svg")
+  ## vdiffr:::write_svg(p, f, "stat='identity'")
+  ## svg <- paste(readLines(f), collapse = "\n")
+  ## stop("\n\n SVG:\n\n", svg)
 
   vdiffr::expect_doppelganger("stat='identity'",
     ggplot(dat, aes(x = xvar, y = yvar)) + geom_bar(stat = "identity")
