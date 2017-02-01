@@ -2,7 +2,7 @@
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 720.00 576.00'>
 <defs>
   <style type='text/css'><![CDATA[
-    line, polyline, path, rect, circle {
+    line, polyline, polygon, path, rect, circle {
       fill: none;
       stroke: #000000;
       stroke-linecap: round;
@@ -22,11 +22,11 @@
 <circle cx='152.12' cy='44.88' r='5.69pt' style='stroke-width: 0.71; stroke: #F8766D; fill: #F8766D;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='152.12' y1='212.42' x2='152.12' y2='154.38' style='stroke-width: 1.07; stroke: #F8766D; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='152.12' y1='290.16' x2='152.12' y2='316.44' style='stroke-width: 1.07; stroke: #F8766D; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
-<polyline points='79.60,212.42 79.60,290.16 224.63,290.16 224.63,212.42 79.60,212.42 ' style='stroke-width: 1.07; stroke: #F8766D; fill: #FFFFFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
+<polygon points='79.60,212.42 79.60,290.16 224.63,290.16 224.63,212.42 79.60,212.42 ' style='stroke-width: 1.07; stroke: #F8766D; fill: #FFFFFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='79.60' y1='231.03' x2='224.63' y2='231.03' style='stroke-width: 2.13; stroke: #F8766D; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='345.50' y1='268.26' x2='345.50' y2='266.07' style='stroke-width: 1.07; stroke: #00BA38; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='345.50' y1='390.90' x2='345.50' y2='520.11' style='stroke-width: 1.07; stroke: #00BA38; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
-<polyline points='272.98,268.26 272.98,390.90 418.01,390.90 418.01,268.26 272.98,268.26 ' style='stroke-width: 1.07; stroke: #00BA38; fill: #FFFFFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
+<polygon points='272.98,268.26 272.98,390.90 418.01,390.90 418.01,268.26 272.98,268.26 ' style='stroke-width: 1.07; stroke: #00BA38; fill: #FFFFFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='272.98' y1='270.45' x2='418.01' y2='270.45' style='stroke-width: 2.13; stroke: #00BA38; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <circle cx='538.87' cy='520.11' r='5.69pt' style='stroke-width: 0.71; stroke: #619CFF; fill: #619CFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <circle cx='538.87' cy='307.68' r='5.69pt' style='stroke-width: 0.71; stroke: #619CFF; fill: #619CFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
@@ -34,7 +34,7 @@
 <circle cx='538.87' cy='349.29' r='5.69pt' style='stroke-width: 0.71; stroke: #619CFF; fill: #619CFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='538.87' y1='418.28' x2='538.87' y2='417.18' style='stroke-width: 1.07; stroke: #619CFF; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='538.87' y1='452.22' x2='538.87' y2='482.88' style='stroke-width: 1.07; stroke: #619CFF; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
-<polyline points='466.36,418.28 466.36,452.22 611.39,452.22 611.39,418.28 466.36,418.28 ' style='stroke-width: 1.07; stroke: #619CFF; fill: #FFFFFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
+<polygon points='466.36,418.28 466.36,452.22 611.39,452.22 611.39,418.28 466.36,418.28 ' style='stroke-width: 1.07; stroke: #619CFF; fill: #FFFFFF;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <line x1='466.36' y1='442.37' x2='611.39' y2='442.37' style='stroke-width: 2.13; stroke: #619CFF; stroke-linecap: butt;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <rect x='36.09' y='21.12' width='618.81' height='522.76' style='stroke-width: 1.07; stroke: #333333;' clip-path='url(#cpMzYuMDg5MXw2NTQuOTAxfDU0My44NzV8MjEuMTE3Mw==)' />
 <defs>
